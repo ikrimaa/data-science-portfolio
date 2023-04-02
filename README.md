@@ -3,4 +3,5 @@ Portfolio of Data Science Project Complete by me for academic, self-learning, sk
 
 ## Exploratory data analysis
 ## Dashboard
-## Data Science, Machine Learning dan Python
+## Data Science, Machine Learning and Python
+## Paper
