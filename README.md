@@ -1,4 +1,4 @@
-# data-science-portfolio
+# Data-Science-Portfolio
 Portfolio of Data Science Project Complete by me for academic, self-learning, skill upgrade.
 
 ## Exploratory data analysis
