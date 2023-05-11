@@ -11,5 +11,8 @@ Portfolio of Data Science Project Complete by me for academic, self-learning, sk
 ## Data Science, Machine Learning and Python
 * Telcom Customer Churn Prediction Model : [Telcom_customer_churn_prediction.ipynb](https://github.com/ikrimaa/data-science-portfolio/blob/6fe38536b838570da35871c16b441ff7f713c43d/Telcom_customer_churn_prediction.ipynb)
 ## Natural Language Processing
+* Medium App Reviews Analysis : [Sentiment Analysis](https://github.com/ikrimaa/data-science-portfolio/blob/main/Medium_App_Review_Analysis.ipynb)
+  *  Medium App Reviews Category Prediction : soon
+
 ## Paper
 * Named Entity Recognition using Conditional Random Fields Method for Flood Detection In Gerbang Kertosusila based on Twiter Data (UINSA 2022): http://digilib.uinsa.ac.id/56453/
