@@ -11,7 +11,8 @@ Portfolio of Data Science Project Complete by me for academic, self-learning, sk
 ## Data Science, Machine Learning and Python
 * Telcom Customer Churn Prediction Model : [Telcom_customer_churn_prediction.ipynb](https://github.com/ikrimaa/data-science-portfolio/blob/6fe38536b838570da35871c16b441ff7f713c43d/Telcom_customer_churn_prediction.ipynb)
 ## Natural Language Processing
-* Medium App Reviews Analysis : [Sentiment Analysis](https://github.com/ikrimaa/data-science-portfolio/blob/main/Medium_App_Review_Analysis.ipynb)
+* Medium App Reviews Analysis : 
+I comprehensively understand the Goals of Challenges to know the sentiment reviews of medium apps. Datasets obtained from Kaggle "medium-app-reviews-from-google-play-store." With those datasets doing Data Overview Investigation with visualization, Pre-processing (cleaning and bag of words), Modelling, and Predicting sentiment reviews within three days. The model is built with Supervised learning with the SVM algorithm. Build the model using Python (pandas, numpy, matplotlib), and sklearn for pre-processing and modeling.  The result of the Accuracy model is 86.217%. The Visualization of prediction affects medium app reviews, which is 78% positive sentiment, 13% Neutral, and 9% Negative. code : [Sentiment Analysis](https://github.com/ikrimaa/data-science-portfolio/blob/main/Medium_App_Review_Analysis.ipynb)
   *  Medium App Reviews Category Prediction : soon
 
 ## Paper
